@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://buevkstaejhyv"
-path="res://.godot/imported/gedung-univ.png-61f9f4e6178d8b2a9b48f1343b36dcf3.ctex"
+uid="uid://b61f1vs8goj8j"
+path="res://.godot/imported/tilesetpatch2.png-519a5cdc7fe4032ea2d82d5b1048c2c4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/gedung-univ.png"
-dest_files=["res://.godot/imported/gedung-univ.png-61f9f4e6178d8b2a9b48f1343b36dcf3.ctex"]
+source_file="res://assets/tilesetpatch2.png"
+dest_files=["res://.godot/imported/tilesetpatch2.png-519a5cdc7fe4032ea2d82d5b1048c2c4.ctex"]
 
 [params]
 
